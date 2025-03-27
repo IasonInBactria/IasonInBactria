@@ -83,34 +83,43 @@
         {
             "skill_name": "Java",
             "skill_level": 80,
-            "skill_desc": "熟练使用Java开发语言在Spring框架下开发后端应用程序",
+            "skill_desc": "熟练使用Java开发语言在Spring Boot/Spring Cloud框架下开发后端应用程序",
             "dataIndex": 0
         },
         {
-            "skill_name": "MyBatis Plus",
+            "skill_name": "MyBatis/MyBatis Plus",
             "skill_level": 75,
-            "skill_desc": "熟练使用MyBatis Plus提供的API接口操作和管理数据库",
+            "skill_desc": "熟练使用MyBatis/MyBatis Plus提供的API接口操作和管理MySQL数据库",
             "dataIndex": 1
+        },
+        {
+            "skill_name": "中间件",
+            "skill_level": 75,
+            "skill_desc": "熟练使用MySQL/Redis/RabbitMQ等中间件",
+            "dataIndex": 2
         },
         {
             "skill_name": "Linux",
             "skill_level": 70,
-            "skill_desc": "熟练使用Linux系统命令进行应用和服务的部署和维护工作"
+            "skill_desc": "熟练使用Linux系统命令进行应用和服务的部署和维护工作",
+            "dataIndex": 3
         },
         {
             "skill_name": "C/C++",
             "skill_level": 80,
-            "skill_desc": "熟练掌握C/C++语言，开发Windows、Linux以及各国产操作系统上运行的应用程序"
+            "skill_desc": "熟练掌握C/C++语言，开发Windows、Linux以及各国产操作系统上运行的应用程序",
+            "dataIndex": 4
         },
         {
             "skill_name": "Python",
             "skill_level": 60,
-            "skill_desc": "熟悉Python语言的语法和逻辑，可以编写简单的Python脚本"
+            "skill_desc": "熟悉Python语言的语法和逻辑，可以编写简单的Python脚本",
+            "dataIndex": 5
         }
     ],
     "projectList": [
         {
-            "project_name": "天津市农学会三农服务平台项目",
+            "project_name": "宿管平台项目",
             "project_role": "项目经理",
             "project_time": "2024.06 - 2024.09",
             "project_desc": "基于Spring Boot框架，在原有功能基础上收集会员单位数据，将数据导入数据库，实现数据的采集和管理",
@@ -123,15 +132,15 @@
             "project_time": "2023.11 - 2024.02",
             "project_desc": "基于Spring Boot框架，开发电子报表系统，实现对水厂的计量数据的采集和管理",
             "project_content": "\n1. 参与前期的需求沟通、方案编写和系统开发设计工作\n2. 参与水质报表的采集、展示和导出的后端开发工作\n3. 把控开发进度，为团队成员排忧解难，定期向客户了解专业知识、汇报工作进度",
-            "dataIndex": 1
+            "dataIndex": 2
         },
         {
             "project_name": "天津市统计局五经普一体化项目",
-            "project_role": "核心开发者",
+            "project_role": "项目经理",
             "project_time": "2023.8 - 2023.10",
             "project_desc": "基于Spring Cloud框架，开发门户子系统，实现单点登录、权限管理、用户管理、角色管理、菜单管理等功能",
             "project_content": "\n承担后端开发工作\n",
-            "dataIndex": 2
+            "dataIndex": 0
         },
         {
             "project_name": "LVD云桌面客户端",
