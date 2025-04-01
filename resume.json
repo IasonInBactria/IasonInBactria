@@ -130,7 +130,7 @@
             "project_name": "天津市统计局五经普一体化项目",
             "project_role": "核心开发者",
             "project_time": "2023.8 - 2023.10",
-            "project_desc": "为第五次全国经济普查开发一体化管理子系统子系统和统一门户子系统。人员管理、业务管理、业务培训和统一登录等功能，该项目已于2024年5月正式投入使用，使用人数达上万人 \n主要技术栈: SpringCloud/Nacos/SpringCloud GateWay/Open Feign/Redis/RabbitMQ/MySQL",
+            "project_desc": "为第五次全国经济普查开发一体化管理子系统子系统和统一门户子系统。人员管理、业务管理、业务培训和统一登录等功能，该项目已于2024年5月正式投入使用，使用人数达上万人\n \n主要技术栈: SpringCloud/Nacos/SpringCloud GateWay/Open Feign/Redis/RabbitMQ/MySQL",
             "project_content": "\n承担统一登录和业务培训功能的后端开发工作\n",
             "dataIndex": 1
         },
